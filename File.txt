@@ -2,4 +2,4 @@ First line in local master and commit it.
 Second line on github master and commit it.
 Fifth line on local branch
 Sixth local
-
+Third line local master.
