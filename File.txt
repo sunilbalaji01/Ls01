@@ -1,0 +1,1 @@
+First line in local master and commit it.
