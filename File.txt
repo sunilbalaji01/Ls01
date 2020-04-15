@@ -1,2 +1,3 @@
 First line in local master and commit it.
 Second line on github master and commit it.
+Third line local master.
